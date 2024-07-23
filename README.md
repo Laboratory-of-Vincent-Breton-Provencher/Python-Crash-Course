@@ -12,7 +12,7 @@ This class focuses on the basics.
 - Function
 
 ## Practical applications and troubleshooting
-In this class, we focus on how to use specialise scientific module, and search the web for the correct information.
+In this class, we focus on how to use specialise scientific module and we give tools to search the web for the correct information.
 - Import and manipulate data
 - Visualise data
 - Troubleshooting

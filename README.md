@@ -20,7 +20,7 @@ In this class, we focus on how to use specialise scientific module and we give t
 ## Mini project
 We propose two mini project so you can test and challenge yourself. The projects are designed to be solved by a small group.
 - Action potential
-- TODO
+- Image Analysis
 
 The course and the exercise were prepared by [Antoine Daigle](https://github.com/AntoineDaigle) and [Sandrine Poulin](https://github.com/sandrinepoulin). Follow the course with the presentation (PDF file).
 
